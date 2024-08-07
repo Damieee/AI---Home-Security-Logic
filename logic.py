@@ -1,8 +1,3 @@
-# Logic module for evaluating logical sentences and checking entailment
-# Copyright (c) CS50AI
-# Licensed under the MIT License
-
-
 import itertools
 
 
